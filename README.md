@@ -1,1 +1,1 @@
-Dispense che ho usato come base di studio/ripasso per la triennale in \textit{Ing. Informatica}.
+Dispense che ho usato come base di studio/ripasso per la triennale in Ing. Informatica.
